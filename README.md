@@ -1,8 +1,3 @@
-Here’s a clean, professional README.md you can use for your Movie Recommendation System project:
-
-
----
-
 🎬 Movie Recommendation System
 
 📌 Overview
@@ -104,25 +99,6 @@ Matplotlib / Seaborn (for visualization)
 
 User Input → Data Collection → Data Processing → Model Building → Recommendation Output
 
-
----
-
-▶️ Installation & Setup
-
-Step 1: Clone the Repository
-
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-
-Step 2: Install Dependencies
-
-pip install pandas numpy scikit-learn
-
-Step 3: Run the Project
-
-python main.py
-
-
 ---
 
 📈 Advantages
@@ -183,13 +159,3 @@ This project is open-source and available under the MIT License.
 
 Purab Raka
 
-
----
-
-If you want, I can:
-
-Customize this README with your name + GitHub link
-
-Add screenshots section
-
-Or convert it into a project report + PPT# Movie-recommendation-system-
